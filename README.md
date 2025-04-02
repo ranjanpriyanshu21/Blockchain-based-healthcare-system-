@@ -48,12 +48,12 @@ This project implements a blockchain-based medical records system with the follo
    ```
    http://localhost:5000
    ```
- #Screenshots
- ![](/Screenshots/screen1.png)
- ![](/Screenshots/screen2.png)
- ![](/Screenshots/screen3.png)
- ![](/Screenshots/screen4.png)
- ![](/Screenshots/screen5.png)
+ # Screenshots
+ ![](/Screenshots/Screen1.jpg)
+ ![](/Screenshots/Screen2.jpg)
+ ![](/Screenshots/Screen3.jpg)
+ ![](/Screenshots/Screen4.jpg)
+ ![](/Screenshots/Screen5.jpg)
 
 
    
